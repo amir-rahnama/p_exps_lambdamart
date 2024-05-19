@@ -1,5 +1,5 @@
 ### Local Point-Wise Explanations of LambdaMART
-
+This is the code repository for the paper, "Local Pointwise Explanations of LambdaMART" accepted at [The 14th Scandinavian conference on AI (SCAI)](https://ju.se/samarbeta/event-och-konferenser/konferens/scai-symposium-2024.html). 
 
 In order to replicate the experiments, you can train LambdaMART in Local Point-Wise Explanations by looking into ```Get exp (yahoo and web10k).ipynb``` or load the ones already trained in `/models`.
 
